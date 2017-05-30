@@ -1,2 +1,11 @@
-截至 https://github.com/RaenonX/MFF-Resources/commit/377e1aa440a59458e5c387c390f8315737a2bc68 為止有上傳的音樂: 
-https://drive.google.com/open?id=0B__2j4_XEYzmVzVLM0dsTDZJZHc
+最後更新日期: 2017/05/30
+
+進入 https://drive.google.com/open?id=0B__2j4_XEYzmLUVQWjkybndEcnc 後，會有數個檔案，請根據檔案敘述自行下載所需。
+檔名格式為【{檔名} - {敘述}】，詳情如下。
+打包時，MP3已經全部上TAG，OGG則是提出時最原始的檔案(包含黨名也不沒有更動)。
+
+All
+於第一行"最後更新日期"時的檔案打包而成。
+
+170530 Patch (FFXIV)
+於2017/05/30更新後新增的檔案，主要是FF14的音檔。
